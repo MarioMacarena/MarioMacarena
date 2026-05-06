@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right" width="240" alt="Coding" src="./assets/cat_no_white_halo_v2.gif" />
+<img align="right" width="240" alt="Coding" src="./assets/catKey.gif" />
 
-<img src="./assets/about.gif" width="50" align="center">&nbsp;<b><i>About me</i></b>
+<img src="./assets/about.gif" width="45" align="center">&nbsp;<b><i>About me</i></b>
 
 I am a Junior Full Stack Developer from Mazatlán, México. I enjoy learning, solving problems and building things that are useful, clean and creative.
 
