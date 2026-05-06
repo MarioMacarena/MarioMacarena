@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right" width="280px" alt="Coding" src="./assets/cat_no_white_halo_v2.gif" />
+<img align="right" width="250" alt="Coding" src="./assets/cat_no_white_halo_v2.gif" />
 
 <img src="./assets/about.gif" width="40px" style="vertical-align: middle;">&nbsp;***About me***
 
