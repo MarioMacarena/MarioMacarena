@@ -9,7 +9,7 @@
 
 I am a Junior Full Stack Developer from Mazatlán, México. I enjoy learning, solving problems and building things that are useful, clean and creative.
 
-I have experience working with both frontend and backend development, and I’m always looking to improve my skills, understand new technologies and become a better developer step by step.
+I have experience working with both frontend and backend development, and I’m always looking to improve my skills step by step.
 
 - 🌱 I’m currently improving my knowledge in full stack development.
 - 💻 I enjoy working across both backend and frontend.
