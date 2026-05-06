@@ -5,7 +5,7 @@
 
 <img align="right" width="240" alt="Coding" src="./assets/cat_no_white_halo_v2.gif" />
 
-<img src="./assets/about.gif" width="40px" style="vertical-align: middle;">&nbsp;***About me***
+<img src="./assets/about.gif" width="50" align="center">&nbsp;<b><i>About me</i></b>
 
 I am a Junior Full Stack Developer from Mazatlán, México. I enjoy learning, solving problems and building things that are useful, clean and creative.
 
