@@ -5,7 +5,10 @@
 
 <img align="right" width="240" alt="Coding" src="./assets/catKey.gif" />
 
-<img src="./assets/about.gif" width="45" align="center">&nbsp;<b><i><span style="font-size: 22px;">About me</span></i></b>
+<h3>
+  <img src="./assets/about.gif" width="45" align="absmiddle">
+  <sub><b><i>About me</i></b></sub>
+</h3>
 
 I am a Junior Full Stack Developer from Mazatlán, México. I enjoy learning, solving problems and building things that are useful, clean and creative.
 
